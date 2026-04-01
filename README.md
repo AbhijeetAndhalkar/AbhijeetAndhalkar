@@ -34,19 +34,8 @@ Building RAG systems (like my project RAGCraft), Python backend development, IoT
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=AbhijeetAndhalkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Abhijeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhijeetAndhalkar&theme=dark&hide_border=false" alt="Abhijeet's GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbhijeetAndhalkar&theme=dark&hide_border=false" alt="Abhijeet's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=AbhijeetAndhalkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AbhijeetAndhalkar&icon=0&color=0" alt="Profile Views">
-  </a>
-</div>
+  <img src="
